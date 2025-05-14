@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @licividolin
 - 👀 I’m interested in books, movies, TV Shows, DnD and music
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently doing my Software Engineering MBA
 - 📫 How to reach me licialbuquerquevidolin@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can recognize any Taylor Swift song within 2 seconds of it playing
